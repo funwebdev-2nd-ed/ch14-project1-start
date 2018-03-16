@@ -3,8 +3,6 @@
 
 Demonstrate your ability to retrieve information from a database and display it.
 
-Note: To configure database connection, edit includes/book-config.inc.php
-
 For some environments, you may need to initialize your MySQL once before creating and populating the data. In
 Cloud9, you do so via the command:
 ```
